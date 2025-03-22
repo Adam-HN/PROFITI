@@ -27,7 +27,7 @@ const Right = () => {
       {showTypewriter && (
         <div className="absolute text-center text-xl top-[10%] md:text-2xl lg:text-3xl text-slate-700 mt-6 font-OpenSans ">
           <Typewriter
-            words={["Welcome to PROFITII.", "Please sign in to continue."]}
+            words={["Welcome to  PROFITII.", "Please sign in to continue."]}
             loop={true}
             cursor
             cursorStyle="|"
